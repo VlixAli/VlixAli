@@ -49,7 +49,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring," />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cpp,cs" />
   </a>
 </p>
 
