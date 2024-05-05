@@ -49,7 +49,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cpp,cs,dotnet" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,phpstorm,rider" />
   </a>
 </p>
 
