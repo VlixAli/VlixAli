@@ -12,15 +12,15 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
@@ -28,9 +28,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m a computer science graduate
+- 🌱 I’m currently working as a **software engineer** for [Hilbertech](https://www.linkedin.com/company/hilbertech)
 
-- 🌱 I’m currently working as a **Backend developer**
+- 🔭 I’m a computer science graduate
 
 - 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/VlixAli?tab=repositories)
 
@@ -51,7 +51,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cpp,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,typescript,nestjs,cpp,cs" />
   </a>
 </p>
 
@@ -65,7 +65,14 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+  </a>
+</p>
+
+- Cloud & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
   </a>
 </p>
 
@@ -73,7 +80,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,phpstorm,rider" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" />
   </a>
 </p>
 
